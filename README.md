@@ -1,62 +1,67 @@
 <h1 align="center">Hi 👋, I'm Kareem Ibrahim</h1>
-<h3 align="center">A passionate Back-End Developer and Communication Engineer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer (Backend ASP.NET) and Security Operation Center Specialist from Egypt</h3>
+
+- 🔭 I’m currently working as **Software Engineer Backend ASP.NET and SOC**
+
+- 🌱 I’m currently learning **Advanced .NET Technologies, Security, and Problem Solving**
+
+- 👯 I’m looking to collaborate on **ASP.NET Projects and Security Solutions**
+
+- 💬 Ask me about **Backend Development, ASP.NET, Security Operations, and Problem Solving**
+
+- 📫 How to reach me **[Your Email Address]**
+
+- ⚡ Fun fact: **I enjoy learning new technologies and mentoring others.**
 
 ---
 
-🌍 **I’m currently working on** developing scalable and efficient back-end systems.
-
-🌱 **I’m currently learning** advanced .NET Core, problem-solving, and backend optimization.
-
-👯‍♂️ **I’m looking to collaborate on** ASP.NET Core projects and backend development challenges.
-
-💬 **Ask me about** Back-End Development, Problem Solving, and Networking.
-
-📧 **How to reach me**: [kareemimrahim@gmail.com](mailto:kareemimrahim@gmail.com)
-
-🔦 **Fun fact**: I’m always exploring ways to optimize systems and enhance performance.
+### 💻 Technical Skills:
+- **Programming Languages:** C#, C++, Dart, JavaScript
+- **Frontend:** HTML, CSS
+- **Backend:** ASP.NET Core, API, SignalR
+- **Database:** Entity Framework, Entity Framework Core
+- **Software Concepts:** OOP, LINQ, Data Structures, Algorithms
+- **Architecture:** MVC
 
 ---
 
-<h3 align="left">Internships:</h3>
-<ul>
-  <li>🏢 <b>EFG Hermes</b>: Gained hands-on experience in financial systems and security practices.</li>
-</ul>
+### 🏅 Certifications & Training:
+- **Trainer at EFG Hermes**
+- **NTI Internship:** CCNA (200-301)
+- **ITI Summer Internship:** Cyber Security
+- **ITI Internship:** Red Hat Admin 1
+- **ITI Summer Internship:** MCSA (2019)
+- **Security+ Certification**
+- **Ejbtv1 Certification**
+- **Trainer at Cyber Talents**
 
 ---
 
-<h3 align="left">Certifications and Courses:</h3>
-<ul>
-  <li>🖒 <b>CCNA Routing and Switching</b> - Cisco</li>
-  <li>🖒 <b>IT Essentials</b> - Cisco</li>
-  <li>🖒 <b>Introduction to Cybersecurity</b> - Cisco</li>
-  <li>🖒 <b>Microsoft Azure Fundamentals</b></li>
-  <li>🖒 <b>Communication Systems</b> - Advanced Topics</li>
-</ul>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kareem-ibrahim&show_icons=true&locale=en" alt="kareem-ibrahim" />
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+### 📫 Connect with Me:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareemibrahim&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemibrahim&layout=compact&theme=dark" alt="Top Languages"/>
+  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://github.com/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tools & Technologies:
 <p align="left">
-  <a href="https://linkedin.com/in/kareem-ibrahim" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="mailto:kareemimrahim@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="40" height="40"/></a>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="API" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/network.png" alt="Network" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Security" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/red-hat.png" alt="Red Hat" height="40"/>
 </p>
