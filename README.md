@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Backend Development, ASP.NET, Security Operations, and Problem Solving**
 
-- 📫 How to reach me **[Your Email Address]**
+- 📫 How to reach me **[kareemimrahim@gmail.com](mailto:kareemimrahim@gmail.com)**
 
 - ⚡ Fun fact: **I enjoy learning new technologies and mentoring others.**
 
@@ -39,15 +39,27 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareem-ibrahim&show_icons=true&locale=en" alt="kareem-ibrahim" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kareem-Ibrahim-Mahmoud&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kareem-Ibrahim-Mahmoud&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kareem-Ibrahim-Mahmoud&theme=vue" alt="GitHub Summary" />
 </p>
 
 ---
 
 ### 📫 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://github.com/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kareem-ibrahim-mahmoud-98b23626a/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="mailto:kareemimrahim@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" height="40"/>
+  </a>
 </p>
 
 ---
@@ -63,5 +75,11 @@
   <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="API" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/network.png" alt="Network" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Security" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/red-hat.png" alt="Red Hat" height="40"/>
+</p>
+
+---
+
+### 🟢 Dynamic GitHub Contribution Graph:
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Kareem-Ibrahim-Mahmoud&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=My%20GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph" />
 </p>
